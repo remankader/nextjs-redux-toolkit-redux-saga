@@ -1,0 +1,22 @@
+.section {
+  padding: 15px 0;
+}
+
+.formContainer {
+  background: rgb(221, 228, 235);
+  border: 1px solid rgb(195, 202, 215);
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.resultContainer {
+  min-width: 40vw;
+  margin-top: 20px;
+  background: rgb(39, 49, 63);
+  padding: 15px 25px;
+  border: 3px solid rgb(111, 124, 148);
+  border-radius: 10px;
+  color: rgb(34 197 94);
+}
